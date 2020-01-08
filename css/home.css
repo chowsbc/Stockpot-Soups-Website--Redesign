@@ -68,7 +68,7 @@ text-align: center;
 .container-n{
   display: grid;
   grid-template-columns: 1fr 150px 150px 1fr;
-  grid-template-rows: 100px 220px 320px 220px 100px 330px 230px 100px 180px 230px 100px 150px 150px 150px 50px 100px;
+  grid-template-rows: 100px 220px 320px 220px 100px 330px 230px 100px 180px 230px 100px 150px 150px 250px 50px 100px;
   grid-gap: 15px;
 }
 
