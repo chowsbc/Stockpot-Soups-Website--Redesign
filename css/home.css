@@ -224,7 +224,7 @@ h1{
   .container-n{
     display: grid;
     grid-template-columns: 200px 1fr 200px 200px 200px 1fr;
-    grid-template-rows: 75px 125px 280px 512px 302px 249px 110px 100px;
+    grid-template-rows: 75px 125px 280px 512px 302px 349px 110px 100px;
     grid-gap: 15px;
 }
 
@@ -470,14 +470,14 @@ footer{
   .container-n{
     display: grid;
     grid-template-columns: 200px 1fr 266.666px 266.666px 266.666px 1fr;
-    grid-template-rows: 75px 250px 140px 450px 302px 290px 100px 100px;
+    grid-template-rows: 75px 250px 140px 450px 302px 390px 100px 100px;
 
 }
 
 
 
 nav{
-  height: 1900px;
+  height: 2000px;
 }
 
 .updatepic{
